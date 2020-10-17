@@ -1,0 +1,8 @@
+com/minkunam/repository/ThemeParkRideRepository.java
+ com.minkunam.repository.ThemeParkRideRepository
+com/minkunam/entity/ThemeParkRide.java
+ com.minkunam.entity.ThemeParkRide
+com/minkunam/ThemeParkApplication.java
+ com.minkunam.ThemeParkApplication
+com/minkunam/controller/ThemeParkRideController.java
+ com.minkunam.controller.ThemeParkRideController
